@@ -1,0 +1,1 @@
+{"version":3,"sources":["music.js"],"names":["bgMusicplay","Audio","src","volume","loop"],"mappings":";AAAA,IAAMA,EAAc,IAAIC,MACxBD,EAAYE,IAAM,wBAClBF,EAAYG,OAAS,GACrBH,EAAYI,MAAO","file":"music.dea503cc.js","sourceRoot":"..","sourcesContent":["const bgMusicplay = new Audio()\r\nbgMusicplay.src = 'sounds/bgmusic_ny.mp3'\r\nbgMusicplay.volume = .1\r\nbgMusicplay.loop = true"]}
